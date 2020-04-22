@@ -6,9 +6,9 @@
           <div class="title">Welcome!</div>
           <v-spacer />
         </v-card-title>
-        <v-card-body>
+        <v-card-text>
           stuff
-        </v-card-body>
+        </v-card-text>
       </v-card>
     </v-layout>
   </v-content>
